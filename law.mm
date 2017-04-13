@@ -1,9 +1,9 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1491502172541" ID="ID_613936847" MODIFIED="1491506013083" TEXT="Law">
-<node CREATED="1491502179253" ID="ID_1181182025" MODIFIED="1491581053459" POSITION="right" TEXT="Civil Procedure">
-<node CREATED="1491502200786" ID="ID_1322443873" MODIFIED="1491941482791" TEXT="Federal">
-<node CREATED="1491939234354" ID="ID_1904091422" MODIFIED="1491941489272" TEXT="District court">
+<node CREATED="1491502179253" FOLDED="true" ID="ID_1181182025" MODIFIED="1492108188709" POSITION="right" TEXT="Civil Procedure">
+<node CREATED="1491502200786" FOLDED="true" ID="ID_1322443873" MODIFIED="1492108187649" TEXT="Federal">
+<node CREATED="1491939234354" FOLDED="true" ID="ID_1904091422" MODIFIED="1492108186665" TEXT="District court">
 <node CREATED="1491849771129" FOLDED="true" ID="ID_368835578" MODIFIED="1491939214321" TEXT="Attacking the pleadings">
 <node CREATED="1491849802834" FOLDED="true" ID="ID_114183808" MODIFIED="1491850024670" TEXT="Rule 12 generally">
 <node CREATED="1491849810136" FOLDED="true" ID="ID_84734192" MODIFIED="1491850023940" TEXT="Two types of motions">
@@ -33,7 +33,14 @@
 <node CREATED="1491505516335" ID="ID_249835001" LINK="https://archive.org/download/DefaultJudgmentOrder/default%20judgment%20order.pdf" MODIFIED="1491613505610" TEXT="Sample default judgment"/>
 </node>
 </node>
-<node CREATED="1491511128240" FOLDED="true" ID="ID_1473443067" MODIFIED="1491849768084" TEXT="Consolidation">
+<node CREATED="1492107988855" FOLDED="true" ID="ID_310351738" MODIFIED="1492108170860" TEXT="Motion practice">
+<node CREATED="1492108002240" FOLDED="true" ID="ID_93949986" MODIFIED="1492108170033" TEXT="Motion for reconsideration (before judgment)">
+<node CREATED="1492108066785" ID="ID_490725379" MODIFIED="1492108111725" TEXT="Usually only appropriate when there is new evidence, clear error, or a change in law."/>
+<node CREATED="1492108149281" ID="ID_1007275198" MODIFIED="1492108163823" TEXT="Usually cannot be used to raise facts or arguments that could have been raised earlier."/>
+<node CREATED="1492108123664" ID="ID_1754937942" MODIFIED="1492108137837" TEXT="Not mentioned in FRCPs, but courts have inherent authority."/>
+</node>
+</node>
+<node CREATED="1491511128240" FOLDED="true" ID="ID_1473443067" MODIFIED="1492107987898" TEXT="Consolidation">
 <node CREATED="1491511134823" ID="ID_893823412" MODIFIED="1491511141844" TEXT="FRCP 42(a)"/>
 <node CREATED="1491511142051" ID="ID_1221784016" MODIFIED="1491844432981" TEXT="Related cases&#x2014;N.D. Cal. Civ. LR 3-12">
 <node CREATED="1491511241120" ID="ID_307501864" MODIFIED="1491844434949" TEXT="Party in lowest-numbered case must file administrative motion to relate.">
@@ -74,7 +81,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1491939239842" ID="ID_1841161810" MODIFIED="1491941015862" TEXT="Appellate court">
+<node CREATED="1491939239842" FOLDED="true" ID="ID_1841161810" MODIFIED="1492107981919" TEXT="Appellate court">
 <node CREATED="1491941494797" ID="ID_76725552" MODIFIED="1491941496418" TEXT="Notice">
 <node CREATED="1491939975117" ID="ID_597819705" MODIFIED="1491941528490" TEXT="Must usually be filed within 30 days of entry of judgment or order. FRAP 4."/>
 <node CREATED="1491941575742" ID="ID_943225511" MODIFIED="1491941653115" TEXT="30-day period begins when judgment is entered. Judgment must be in a separate document, FRCP 58. But a party can still appeal if there is not a separate document."/>
