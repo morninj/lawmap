@@ -4,7 +4,7 @@
 <node CREATED="1491502179253" ID="ID_1181182025" MODIFIED="1492115206531" POSITION="right" TEXT="Civil Procedure">
 <node CREATED="1491502200786" ID="ID_1322443873" MODIFIED="1492115207337" TEXT="Federal">
 <node CREATED="1491939234354" ID="ID_1904091422" MODIFIED="1492450894808" TEXT="District court">
-<node CREATED="1492450897323" ID="ID_1604400774" MODIFIED="1492450900339" TEXT="Service of process">
+<node CREATED="1492450897323" FOLDED="true" ID="ID_1604400774" MODIFIED="1494432988082" TEXT="Service of process">
 <node CREATED="1492450963875" ID="ID_1879976379" MODIFIED="1492450965951" TEXT="FRCP 4"/>
 <node CREATED="1492450905400" ID="ID_979736451" MODIFIED="1492451923202" TEXT="Plaintiff must serve defendants with:">
 <node CREATED="1492450943049" ID="ID_119425638" MODIFIED="1492450946663" TEXT="Copy of the complaint"/>
@@ -61,7 +61,7 @@
 <node CREATED="1491511904279" ID="ID_241403870" MODIFIED="1491511930280" TEXT="This is a local rule. The idea of &quot;related cases&quot; doesn&apos;t appear in the federal rules."/>
 </node>
 </node>
-<node CREATED="1491581055948" FOLDED="true" ID="ID_1543603689" MODIFIED="1491613365266" TEXT="Settlement">
+<node CREATED="1491581055948" ID="ID_1543603689" MODIFIED="1494432991701" TEXT="Settlement">
 <node CREATED="1491581347646" ID="ID_1130430105" MODIFIED="1491581355413" TEXT="Settling after complaint has been filed">
 <node CREATED="1491581357310" FOLDED="true" ID="ID_1329938103" MODIFIED="1491583738739" TEXT="Parties must notify court promptly.">
 <node CREATED="1491583719815" ID="ID_678609437" LINK="https://archive.org/download/OrderGrantingVoluntaryDismissal/notice%20of%20settlement.pdf" MODIFIED="1491583731415" TEXT="Sample notice of settlement"/>
@@ -71,12 +71,14 @@
 <node CREATED="1491583934020" ID="ID_1106692093" LINK="https://ia601501.us.archive.org/6/items/OrderGrantingVoluntaryDismissal/osc%20re%20settlement.pdf" MODIFIED="1491583944104" TEXT="Sample OSC re settlement"/>
 <node CREATED="1491583876244" ID="ID_998393520" MODIFIED="1491583881627" TEXT="Sample docket entry: &quot;ORDER RE: NOTICE OF TENTATIVE SETTLEMENT. All pretrial deadlines and hearing dates set in each case, including Case Management Conferences, are VACATED and any pending motions are TERMINATED. The court schedules a Status Conference for 10:00 a.m. on 6/29/2017. On or before 6/22/2017, the parties shall file a Joint Status Conference Statement which provides, inter alia, an update on the settlement of these actions. Signed by Judge Edward J. Davila on 4/7/2017. (ejdlc1S, COURT STAFF) (Filed on 4/7/2017) (Entered: 04/07/2017)&quot;"/>
 </node>
-<node CREATED="1491583956959" FOLDED="true" ID="ID_1816058008" MODIFIED="1491598551326" TEXT="Parties usually file stipulation of dismissal.">
+<node CREATED="1491583956959" FOLDED="true" ID="ID_1816058008" MODIFIED="1494432999180" TEXT="Parties usually file stipulation of dismissal.">
 <node CREATED="1491584106362" ID="ID_404122110" LINK="https://archive.org/download/OrderGrantingVoluntaryDismissal/stipulation%20of%20dismissal.pdf" MODIFIED="1491584118860" TEXT="Sample stipulation of dismissal"/>
 <node CREATED="1491583978775" ID="ID_1066693131" LINK="https://archive.org/download/OrderGrantingVoluntaryDismissal/notice%20of%20voluntary%20dismissal.pdf" MODIFIED="1491584001554" TEXT="Sample notice of voluntary dismissal by plaintiff"/>
 </node>
-<node CREATED="1491584122313" FOLDED="true" ID="ID_495447010" MODIFIED="1491598552234" TEXT="Court closes case.">
+<node CREATED="1491584122313" ID="ID_495447010" MODIFIED="1494433000243" TEXT="Court closes case.">
 <node CREATED="1491584033079" ID="ID_1428727450" LINK="https://archive.org/download/OrderGrantingVoluntaryDismissal/order%20granting%20voluntary%20dismissal.pdf" MODIFIED="1491584043835" TEXT="Sample order granting voluntary dismissal"/>
+<node CREATED="1494433286831" ID="ID_763063124" MODIFIED="1494433321620" TEXT="In EJD chambers, we always post an order (becuase the clerk&apos;s office won&apos;t act without an order), even though an order is not required under FRCP 41(a)(1)(A)."/>
+<node CREATED="1494433090214" ID="ID_1923811674" MODIFIED="1494433098962" TEXT="Sample docket entry granting dismissal: &quot;ORDER Granting 25 Notice of Voluntary Dismissal with prejudice by Counter-Claimant Boston Scientific Corporation pursuant to FRCP 41(a)(2). The Clerk shall close this file. Signed by Judge Edward J. Davila on 6/10/2011. (ecg, COURT STAFF) (Filed on 6/10/2011) (Entered: 06/10/2011)&quot;"/>
 <node CREATED="1491583358136" ID="ID_1778508251" MODIFIED="1491583367339" TEXT="Sample docket entry closing case: &quot;***Civil Case Terminated pursuant to Notice of Dismissal 52 and Stipulation of Dismissal 54 . (lmh, COURT STAFF) (Filed on 6/8/2016) (Entered: 06/08/2016)&quot;"/>
 </node>
 <node CREATED="1491581063690" ID="ID_1647662973" MODIFIED="1491581109024" TEXT="Judge Davila standing order: parties must file Notice of Settlement saying when they expect the case to be resolved (e.g., through stipulated dismissal)."/>
