@@ -2,8 +2,8 @@
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1491502172541" ID="ID_613936847" MODIFIED="1491506013083" TEXT="Law">
 <node CREATED="1491502179253" ID="ID_1181182025" MODIFIED="1492115206531" POSITION="right" TEXT="Civil Procedure">
-<node CREATED="1491502200786" ID="ID_1322443873" MODIFIED="1492115207337" TEXT="Federal">
-<node CREATED="1491939234354" ID="ID_1904091422" MODIFIED="1492450894808" TEXT="District court">
+<node CREATED="1491502200786" FOLDED="true" ID="ID_1322443873" MODIFIED="1495490735001" TEXT="Federal">
+<node CREATED="1491939234354" FOLDED="true" ID="ID_1904091422" MODIFIED="1495490731297" TEXT="District court">
 <node CREATED="1492450897323" FOLDED="true" ID="ID_1604400774" MODIFIED="1494432988082" TEXT="Service of process">
 <node CREATED="1492450963875" ID="ID_1879976379" MODIFIED="1492450965951" TEXT="FRCP 4"/>
 <node CREATED="1492450905400" ID="ID_979736451" MODIFIED="1492451923202" TEXT="Plaintiff must serve defendants with:">
@@ -37,17 +37,21 @@
 <node CREATED="1492116755767" ID="ID_185801090" MODIFIED="1492116792448" TEXT="&quot;Rule 59(e) of the Federal Rules of Civil Procedure is the proper avenue for filing a motion for reconsideration of a motion to dismiss without leave to amend. See Mir v. Fosburg, 646 F.2d 342, 344 (9th Cir.1980). &#x201c;Under Rule 59(e), a motion for reconsideration should not be granted, absent highly unusual circumstances, unless the district court is presented with newly discovered evidence, committed clear error, or if there is an intervening change in the controlling law.&#x201d; 389 Orange Street Partners v. Arnold, 179 F.3d 656, 665 (9th Cir.1999).&quot;&#xa;&#xa;Ferris v. City of San Jose, No. 11-CV-01752-LHK, 2013 WL 1120805, at *2 (N.D. Cal. Mar. 16, 2013)"/>
 </node>
 </node>
-<node CREATED="1491502190402" FOLDED="true" ID="ID_492885197" MODIFIED="1492451860202" TEXT="Default">
+<node CREATED="1491502190402" FOLDED="true" ID="ID_492885197" MODIFIED="1495490729801" TEXT="Default">
 <node CREATED="1491502752780" ID="ID_405450802" MODIFIED="1491502780994" TEXT="Defendant usually has 21 days to answer or file Rule 12 motion. FRCP 12(a)(1)."/>
 <node CREATED="1491502242499" ID="ID_1404554514" MODIFIED="1491505709936" TEXT="Default rules: FRCP 55."/>
 <node CREATED="1491502213766" ID="ID_284456760" MODIFIED="1491502259285" TEXT="&quot;Default&quot;: Defendant fails to defend. Case can continue."/>
-<node CREATED="1491502249365" ID="ID_1663185558" MODIFIED="1492451856626" TEXT="&quot;Entry of default&quot;: Plaintiff must request. Cuts off defendant&apos;s right to defend. Clerk will enter without court action.">
+<node CREATED="1491502249365" FOLDED="true" ID="ID_1663185558" MODIFIED="1495490728800" TEXT="&quot;Entry of default&quot;: Plaintiff must request. Cuts off defendant&apos;s right to defend. Clerk will enter without court action.">
 <node CREATED="1491504870236" ID="ID_496466740" LINK="https://archive.org/download/RequestForEntryOfDefault/request%20for%20entry%20of%20default.pdf" MODIFIED="1491504918524" TEXT="Sample request for entry of default"/>
 <node CREATED="1491505092479" ID="ID_1523070146" LINK="https://archive.org/download/SampleClerksNoticeOfEntryOfDefault/sample%20clerks%20notice%20of%20entry%20of%20default.pdf" MODIFIED="1491505162000" TEXT="Sample clerk&apos;s notice of entry of default"/>
 </node>
-<node CREATED="1491502296805" ID="ID_1898145266" MODIFIED="1491613367745" TEXT="&quot;Default judgment&quot;: After entry, plaintiff can apply for judgment. Clerk can sometimes enter default judgment. Usually a &quot;hearing&quot; is required (but the motion can be taken under submission; an in-person hearing is not mandatory).">
+<node CREATED="1491502296805" FOLDED="true" ID="ID_1898145266" MODIFIED="1495490727846" TEXT="&quot;Default judgment&quot;: After entry, plaintiff can apply for judgment. Clerk can sometimes enter default judgment. Usually a &quot;hearing&quot; is required (but the motion can be taken under submission; an in-person hearing is not mandatory).">
 <node CREATED="1491505500222" ID="ID_1360772065" LINK="https://archive.org/download/SampleMotionForDefaultJudgment/sample%20motion%20for%20default%20judgment.pdf" MODIFIED="1491505588603" TEXT="Sample motion for default judgment"/>
 <node CREATED="1491505516335" ID="ID_249835001" LINK="https://archive.org/download/DefaultJudgmentOrder/default%20judgment%20order.pdf" MODIFIED="1491613505610" TEXT="Sample default judgment"/>
+<node CREATED="1495490536502" FOLDED="true" ID="ID_708221962" MODIFIED="1495490727465" TEXT="EJD does (1) order on motion for default judgment and (2) default judgment">
+<node CREATED="1495490556228" ID="ID_1986830926" LINK="https://archive.org/download/order_20170522/order.pdf" MODIFIED="1495490573209" TEXT="Sample order"/>
+<node CREATED="1495490574104" ID="ID_941741827" LINK="https://archive.org/download/order_20170522/judgment.pdf" MODIFIED="1495490724858" TEXT="Sample default judgment"/>
+</node>
 </node>
 </node>
 <node CREATED="1492107988855" ID="ID_310351738" MODIFIED="1492116713015" TEXT="Motion practice"/>
@@ -61,7 +65,7 @@
 <node CREATED="1491511904279" ID="ID_241403870" MODIFIED="1491511930280" TEXT="This is a local rule. The idea of &quot;related cases&quot; doesn&apos;t appear in the federal rules."/>
 </node>
 </node>
-<node CREATED="1491581055948" ID="ID_1543603689" MODIFIED="1494432991701" TEXT="Settlement">
+<node CREATED="1491581055948" FOLDED="true" ID="ID_1543603689" MODIFIED="1495490524270" TEXT="Settlement">
 <node CREATED="1491581347646" ID="ID_1130430105" MODIFIED="1491581355413" TEXT="Settling after complaint has been filed">
 <node CREATED="1491581357310" FOLDED="true" ID="ID_1329938103" MODIFIED="1491583738739" TEXT="Parties must notify court promptly.">
 <node CREATED="1491583719815" ID="ID_678609437" LINK="https://archive.org/download/OrderGrantingVoluntaryDismissal/notice%20of%20settlement.pdf" MODIFIED="1491583731415" TEXT="Sample notice of settlement"/>
@@ -94,7 +98,7 @@
 </node>
 </node>
 </node>
-<node CREATED="1491939239842" FOLDED="true" ID="ID_1841161810" MODIFIED="1492450893971" TEXT="Appellate court">
+<node CREATED="1491939239842" ID="ID_1841161810" MODIFIED="1495490731796" TEXT="Appellate court">
 <node CREATED="1491941494797" ID="ID_76725552" MODIFIED="1491941496418" TEXT="Notice">
 <node CREATED="1491939975117" ID="ID_597819705" MODIFIED="1491941528490" TEXT="Must usually be filed within 30 days of entry of judgment or order. FRAP 4."/>
 <node CREATED="1491941575742" ID="ID_943225511" MODIFIED="1491941653115" TEXT="30-day period begins when judgment is entered. Judgment must be in a separate document, FRCP 58. But a party can still appeal if there is not a separate document."/>
